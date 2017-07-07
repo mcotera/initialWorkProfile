@@ -1,0 +1,6 @@
+cd /home/company/Devel/lib/KiCad
+git clone git://smisioto.eu/kicad_libs.git
+mv kicad_libs walter
+
+git clone git@github.com:mcotera/kicad_mcotera.git
+mv kicad_mcotera mcotera
