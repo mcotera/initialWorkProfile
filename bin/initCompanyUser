@@ -1,0 +1,2 @@
+sudo mkdir -p /home/company/Devel/lib/KiCad
+sudo chmod -R ugo+w /home/company
