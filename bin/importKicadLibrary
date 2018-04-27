@@ -4,3 +4,6 @@ mv kicad_libs walter
 
 git clone https://github.com/mcotera/kicad_mcotera.git
 mv kicad_mcotera mcotera
+
+git clone https://github.com/KiCad/kicad-library.git
+mv kicad-library kicad
